@@ -41,11 +41,3 @@ I am a Software Development student. Although I don't have professional experien
 ### 💀 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Priscila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Priscila&icon=0&color=0)](https://visitcount.itsvg.in)
-
-------
-
-Credit: [Priscila](https://github.com/Priscila)
-
-Last Edited on: 04/02/2025
