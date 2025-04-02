@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Priscila;I'm+a+Software+Development+Student)](https://git.io/typing-svg)
 
-# ✫ About Me:
+# 💫 About Me:
 
 I am a Software Development student. Although I don't have professional experience yet, I am passionate about learning new things and improving my programming skills every day. I am highly motivated, always eager to take on new challenges, and committed to continuous growth in the field of software development.
 
