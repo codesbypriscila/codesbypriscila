@@ -7,7 +7,7 @@ I am a Software Development student. Although I don't have professional experien
 🌟 **I’m currently working on:**  <br>Improving my programming skills and creating new projects.<br><br>
 👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>
 🌱 **I’m currently learning:**  <br>React and TailwindCSS<br><br>
-💬 **Ask me about:**  <br>JavaScript, React, Node.js, Java, SQL Server, C#, AWS, System Design, and any general software development questions.<br><br>
+💬 **Ask me about:**  <br>JavaScript, React, Java, SQL Server, C#, System Design, and any general software development questions.<br><br>
 ⚡ **Fun fact:**  <br>I love listening to music.
 
 ## 🌐 Socials:
