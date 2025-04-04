@@ -7,7 +7,7 @@ I am a Software Development student. Although I don't have professional experien
 🌟 **I’m currently working on:**  <br>Improving my programming skills and creating new projects.<br><br>
 👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>
 🌱 **I’m currently learning:**  <br>React and TailwindCSS<br><br>
-💬 **Ask me about:**  <br>JavaScript, React, Java, SQL Server, C#, System Design, and any general software development questions.<br><br>
+💬 **Ask me about:**  <br>JavaScript, React, Java, SQL Server, C#, Node.js System Design, and any general software development questions.<br><br>
 ⚡ **Fun fact:**  <br>I love listening to music.
 
 ## 🌐 Socials:
@@ -29,6 +29,7 @@ I am a Software Development student. Although I don't have professional experien
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codesbypriscila&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
