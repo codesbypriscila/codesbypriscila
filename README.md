@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am a Software Development student. Although I don't have professional experience yet, I am passionate about learning new things and improving my programming skills every day. I am highly motivated, always eager to take on new challenges, and committed to continuous growth in the field of software development.
+I am a Software Development student. I am passionate about learning new things and improving my programming skills every day. I am highly motivated, always eager to take on new challenges, and committed to continuous growth in the field of software development.
 
 🌟 **I’m currently working on:**  <br>Improving my programming skills and creating new projects.<br><br>
 👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>
@@ -12,9 +12,6 @@ I am a Software Development student. Although I don't have professional experien
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/](https://x.com/kagswttie_?s=21)) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://instagram.com/](https://www.instagram.com/imnotpriscilaa__?igsh=Zmgyb2N2dzczbG9j&utm_source=qr)) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1255674985410728082
-)
 
 # 💻 Tech Stack: 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
