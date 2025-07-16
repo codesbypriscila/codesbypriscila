@@ -8,6 +8,7 @@ I am a Software Development student. I am passionate about learning new things a
 👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>
 🌱 **I’m currently learning:**  <br>React and TailwindCSS<br><br>
 💬 **Ask me about:**  <br>JavaScript, React, SQL Server, C#, Node.js System Design, and any general software development questions.<br><br>
+⚡ **Fun fact:**  <br>I love listening to music.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/](https://x.com/kagswttie_?s=21)) 
