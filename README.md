@@ -38,15 +38,23 @@ I care about details: smooth animations, accessible interfaces, typed code, and 
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Sass, Vite" /><br />
+<sub>HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Sass · Vite · Motion (Framer Motion)</sub>
 
-**Backend & databases**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,sqlserver&theme=dark" alt="C#, .NET, Node.js, Python, SQL Server" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python&theme=dark" alt="C#, .NET, Node.js, Express, Python" /><br />
+<sub>C# · .NET · Node.js · Express · Python</sub>
+
+**Databases & ORMs**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,supabase,firebase&theme=dark" alt="PostgreSQL, MySQL, SQLite, MongoDB, Redis, Prisma, Supabase, Firebase" /><br />
+<sub>SQL Server · PostgreSQL · MySQL · SQLite · MongoDB · Redis · Prisma · Supabase · Firebase</sub>
 
 **DevOps & tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ansible,grafana,vercel,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Ansible, Grafana, Vercel, VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ansible,grafana,vercel,azure,postman,figma,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Ansible, Grafana, Vercel, Azure, Postman, Figma, VS Code" /><br />
+<sub>Git · GitHub · GitHub Actions · Docker · Ansible · Grafana · Vercel · Azure · Postman · Figma · VS Code</sub>
 
 ## GitHub stats
 
