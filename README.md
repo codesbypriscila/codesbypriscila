@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Building+polished+web+experiences;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+C%23+%C2%B7+.NET;Computer+Science+student+at+PUCMM)](https://git.io/typing-svg)
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kagswttie_)
-[![GitHub followers](https://img.shields.io/github/followers/codesbypriscila?style=for-the-badge&logo=github&label=Followers&color=24283b)](https://github.com/codesbypriscila?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=codesbypriscila&style=for-the-badge&color=24283b&label=Profile+views)
-
 </div>
 
 ## About me
